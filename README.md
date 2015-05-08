@@ -38,6 +38,6 @@ NSString* key = @"key";
 
 ```
 
-### Copyright
+### THX
 
-Copyright (c) 2013 Francis Chong. This software is licensed under the MIT License. See LICENSE for details.
+Simply extends [Francis' IGDigest](https://github.com/siuying) with more methods
